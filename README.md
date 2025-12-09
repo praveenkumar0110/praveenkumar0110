@@ -21,23 +21,9 @@ I occasionally work on **MERN stack** projects and love integrating clean fronte
 <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
 </td>
-</tr> -->
+</tr> 
 </table>
 
-@media (max-width: 768px) {
-  table tr {
-    display: flex;
-    flex-direction: column;
-  }
-  table td {
-    width: 100% !important;
-    text-align: center;
-  }
-  table img {
-    width: 100% !important;
-    max-width: 300px;
-  }
-}
 
 
 
