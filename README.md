@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Lucida+Console&size=26&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Hi+I'm+E.PRAVEEN+KUMAR;Full+Stack+Developer;ReactJS+|+Django+(Python)+|+MySQL+|+MongoDB;Building+Modern+and+Scalable+Web+Apps" />
 </div>
 
----
-
-
 
 ### 👋 About Me
 
@@ -26,6 +23,23 @@ I occasionally work on **MERN stack** projects and love integrating clean fronte
 </td>
 </tr> -->
 </table>
+<style>
+@media (max-width: 768px) {
+  table tr {
+    display: flex;
+    flex-direction: column;
+  }
+  table td {
+    width: 100% !important;
+    text-align: center;
+  }
+  table img {
+    width: 100% !important;
+    max-width: 300px;
+  }
+}
+</style>
+
 
 ### 💼 What I Do
 
