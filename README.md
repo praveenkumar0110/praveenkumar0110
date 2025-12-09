@@ -4,14 +4,14 @@
 
 ---
 
-<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"  />
+<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width: 35%;" />
 
 ### 👋 About Me
-
+<div style="width: 65%;">
  H! I'm **E.Praveen Kumar**, a passionate **Full Stack Developer** skilled in creating dynamic and scalable web applications.  
 My expertise spans **ReactJS** and **Django (Python)**, with practical experience in **MySQL** and **MongoDB**.  
 I occasionally work on **MERN stack** projects and love integrating clean frontend design with robust backend logic.
-
+</div>
 ---
 
 ### 💼 What I Do
