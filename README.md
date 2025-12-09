@@ -8,57 +8,8 @@
 
 ### 👋 About Me
 
-<style>
-/* Desktop/Laptop – Horizontal */
-.about-container {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  gap: 20px;
-}
 
-/* Mobile – Vertical */
-@media (max-width: 768px) {
-  .about-container {
-    flex-direction: column;
-    text-align: center;
-  }
-}
-</style>
-
-<div class="about-container">
-
-  <!-- TEXT -->
-  <div style="flex: 1;">
-    Hi! I'm <b>E. Praveen Kumar</b>, a passionate <b>Full Stack Developer</b> skilled in creating dynamic and scalable web applications.<br/><br/>
-    My expertise spans <b>ReactJS</b> and <b>Django (Python)</b>, with practical experience in <b>MySQL</b> and <b>MongoDB</b>.<br/><br/>
-    I occasionally work on <b>MERN stack</b> projects and love integrating clean frontend design with robust backend logic.
-  </div>
-
-  <!-- IMAGE -->
-  <div style="flex: 1; text-align: center;">
-    <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="max-width: 100%; border-radius: 10px;" />
-  </div>
-
-</div>
-
-<!-- <div style="display: flex; flex-wrap: wrap; align-items: center;">
-  
-  <!-- Left Section -->
-  <div style="flex: 1; min-width: 250px; padding-right: 20px;">
-    Hi! I'm <b>E. Praveen Kumar</b>, a passionate <b>Full Stack Developer</b> skilled in creating dynamic and scalable web applications.<br/>
-    My expertise spans <b>ReactJS</b> and <b>Django (Python)</b>, with practical experience in <b>MySQL</b> and <b>MongoDB</b>.<br/>
-    I occasionally work on <b>MERN stack</b> projects and love integrating clean frontend design with robust backend logic.
-  </div>
-
-  <!-- Right Section -->
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" style="max-width: 100%; border-radius: 10px;" />
-  </div>
-
-</div> -->
-
-<!-- <table>
+<table>
 <tr>
 <td style="width: 60%;">
 
