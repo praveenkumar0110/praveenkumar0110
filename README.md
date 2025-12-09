@@ -6,18 +6,25 @@
 
 ### 👋 About Me
 
-### 👋 About Me
+<div style="
+  display: grid;
+  grid-template-columns: 1fr 300px;
+  gap: 20px;
+  align-items: center;
+">
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div>
 
-  <div style="flex: 1;">
-    Hi! I'm **E. Praveen Kumar**, a passionate **Full Stack Developer** skilled in creating dynamic and scalable web applications.  
-    My expertise spans **ReactJS** and **Django (Python)**, with practical experience in **MySQL** and **MongoDB**.  
-    I occasionally work on **MERN stack** projects and love integrating clean frontend design with robust backend logic.
-  </div>
+Hi! I'm **E. Praveen Kumar**, a passionate **Full Stack Developer** skilled in creating dynamic and scalable web applications.  
+My expertise spans **ReactJS** and **Django (Python)**, with practical experience in **MySQL** and **MongoDB**.  
+I occasionally work on **MERN stack** projects and love integrating clean frontend design with robust backend logic.
 
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 </div>
+
+<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+
+</div>
+
 
 <!-- <table>
 <tr>
