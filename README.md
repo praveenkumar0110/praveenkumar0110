@@ -4,24 +4,25 @@
 
 ---
 
-<!-- ABOUT SECTION -->
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
-
-  <!-- LEFT SIDE TEXT -->
-  <div style="flex: 1;">
-    
 ### 👋 About Me
+
+<table>
+<tr>
+<td style="width: 60%;">
 
 Hi! I'm **E. Praveen Kumar**, a passionate **Full Stack Developer** skilled in creating dynamic and scalable web applications.  
 My expertise spans **ReactJS** and **Django (Python)**, with practical experience in **MySQL** and **MongoDB**.  
 I occasionally work on **MERN stack** projects and love integrating clean frontend design with robust backend logic.
 
-  </div>
+</td>
 
-  <!-- RIGHT SIDE GIF -->
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius:10px;" />
+<td style="width: 40%;">
 
-</div>
+<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
+</td>
+</tr>
+</table>
 
 ### 💼 What I Do
 
