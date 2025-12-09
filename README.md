@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width: 35%;" />
+<img align="right" width="35%" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ### 👋 About Me
 <div style="width: 65%;">
