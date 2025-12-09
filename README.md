@@ -3,7 +3,7 @@
 </div>
 
 ---
-<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"  style="margin-top: -40px;"   />
+<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"  style="margin-down: 90px;"   />
 
 ### 👋 About Me
 
