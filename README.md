@@ -52,10 +52,11 @@ I occasionally work on **MERN stack** projects and love integrating clean fronte
 ---
 
 ### 📈 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveenkumar0110&show_icons=true&theme=gruvbox&hide_border=false" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumar0110&layout=compact&theme=gruvbox&hide_border=false" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumar0110&theme=gruvbox" height="180" />
+  <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=praveenkumar0110&show_icons=true&theme=gruvbox" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=praveenkumar0110&layout=compact&theme=gruvbox" height="180"/>
 </div>
 
 
