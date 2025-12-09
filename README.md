@@ -4,15 +4,24 @@
 
 ---
 
-<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<!-- ABOUT SECTION -->
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
 
+  <!-- LEFT SIDE TEXT -->
+  <div style="flex: 1;">
+    
 ### 👋 About Me
 
- H! I'm **E.Praveen Kumar**, a passionate **Full Stack Developer** skilled in creating dynamic and scalable web applications.  
+Hi! I'm **E. Praveen Kumar**, a passionate **Full Stack Developer** skilled in creating dynamic and scalable web applications.  
 My expertise spans **ReactJS** and **Django (Python)**, with practical experience in **MySQL** and **MongoDB**.  
 I occasionally work on **MERN stack** projects and love integrating clean frontend design with robust backend logic.
 
----
+  </div>
+
+  <!-- RIGHT SIDE GIF -->
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius:10px;" />
+
+</div>
 
 ### 💼 What I Do
 
@@ -55,7 +64,7 @@ I occasionally work on **MERN stack** projects and love integrating clean fronte
 <div align="center">
 
    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=praveenkumar0110&layout=compact&theme=gruvbox" height="180"/>
-  <br/>
+  <br/> <br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=praveenkumar0110&show_icons=true&theme=gruvbox" height="180"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumar0110&theme=gruvbox" height="180" />
  
