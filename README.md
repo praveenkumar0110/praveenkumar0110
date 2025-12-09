@@ -4,25 +4,23 @@
 
 
 ### 👋 About Me
-<table>
-<tr>
-<td style="width: 60%; vertical-align: top;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
 
-Hi! I'm **E. Praveen Kumar**, a passionate **Full Stack Developer** skilled in creating dynamic and scalable web applications.  
-My expertise spans **ReactJS** and **Django (Python)**, with practical experience in **MySQL** and **MongoDB**.  
-I occasionally work on **MERN stack** projects and love integrating clean frontend design with robust backend logic.
+  <!-- TEXT -->
+  <div style="flex: 1; min-width: 280px; padding-right: 20px;">
+    Hi! I'm <b>E. Praveen Kumar</b>, a passionate <b>Full Stack Developer</b> skilled in creating dynamic and scalable web applications.<br/><br/>
+    My expertise spans <b>ReactJS</b> and <b>Django (Python)</b>, with practical experience in <b>MySQL</b> and <b>MongoDB</b>.<br/><br/>
+    I occasionally work on <b>MERN stack</b> projects and love integrating clean frontend design with robust backend logic.
+  </div>
 
-</td>
+  <!-- IMAGE -->
+  <div style="flex: 1; min-width: 280px; text-align: center; margin-top: 10px;">
+    <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+         width="300" 
+         style="max-width: 100%; border-radius: 10px;" />
+  </div>
 
-<td style="width: 40%;">
-
-<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-     width="300"
-     style="max-width: 100%; display: block; margin: 0 auto; margin-top: 10px;" />
-
-</td>
-</tr>
-</table>
+</div>
 
 <!-- <table>
 <tr>
