@@ -4,6 +4,22 @@
 
 
 ### 👋 About Me
+<style>
+@media (max-width: 768px) {
+  table tr {
+    display: flex !important;
+    flex-direction: column !important;
+  }
+  table td {
+    width: 100% !important;
+    text-align: center !important;
+  }
+  table td img {
+    width: 100% !important;
+    max-width: 300px !important;
+  }
+}
+</style>
 
 
 <table>
