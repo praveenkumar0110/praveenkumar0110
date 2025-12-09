@@ -23,7 +23,7 @@ I occasionally work on **MERN stack** projects and love integrating clean fronte
 </td>
 </tr> -->
 </table>
-<style>
+
 @media (max-width: 768px) {
   table tr {
     display: flex;
@@ -38,7 +38,7 @@ I occasionally work on **MERN stack** projects and love integrating clean fronte
     max-width: 300px;
   }
 }
-</style>
+
 
 
 ### 💼 What I Do
