@@ -3,16 +3,27 @@
 </div>
 
 ---
-<div style="text-align:center;">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-       style="max-width: 100%; width: 200px; border-radius: 10px;" />
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+
+  <!-- TEXT SECTION -->
+  <div style="flex: 1; min-width: 280px;">
+    <h3>👋 About Me</h3>
+    <p>
+      Hi! I'm <b>E.Praveen Kumar</b>, a passionate <b>Full Stack Developer</b> skilled in creating dynamic and scalable web applications.<br/>
+      My expertise spans <b>ReactJS</b> and <b>Django (Python)</b>, with practical experience in <b>MySQL</b> and <b>MongoDB</b>.<br/>
+      I occasionally work on <b>MERN stack</b> projects and love integrating clean frontend design with robust backend logic.
+    </p>
+  </div>
+
+  <!-- IMAGE SECTION -->
+  <div style="flex: 1; min-width: 280px; text-align: center;">
+    <img 
+      src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+      style="max-width: 100%; width: 250px; border-radius: 12px;"
+    />
+  </div>
+
 </div>
-
-### 👋 About Me
-
- H! I'm **E.Praveen Kumar**, a passionate **Full Stack Developer** skilled in creating dynamic and scalable web applications.  
-My expertise spans **ReactJS** and **Django (Python)**, with practical experience in **MySQL** and **MongoDB**.  
-I occasionally work on **MERN stack** projects and love integrating clean frontend design with robust backend logic.
 
 ---
 
