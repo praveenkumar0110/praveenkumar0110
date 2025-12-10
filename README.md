@@ -3,14 +3,67 @@
 </div>
 
 ---
-<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"  />
+<!-- About Me Section -->
+<div style="
+  display:flex; 
+  flex-wrap:wrap; 
+  align-items:center; 
+  gap:25px; 
+  padding:25px;
+  border-radius:16px; 
+  background:linear-gradient(135deg,#0e1117,#111827,#0b0f14);
+  border:1px solid rgba(255,255,255,0.05);
+  box-shadow:0 10px 40px rgba(0,0,0,0.55);
+">
 
-### 👋 About Me
+  
+  <div style="flex:1; min-width:280px;">
+    <h3 style="color:#3ba4ff; margin-bottom:10px; font-size:26px;">
+      👋 About Me
+    </h3>
 
- H! I'm **E.Praveen Kumar**, a passionate **Full Stack Developer** skilled in creating dynamic and scalable web applications.  
-My expertise spans **ReactJS** and **Django (Python)**, with practical experience in **MySQL** and **MongoDB**.  
-I occasionally work on **MERN stack** projects and love integrating clean frontend design with robust backend logic.
+    <p style="color:#d1d5db; line-height:1.6; font-size:16px;">
+      Hi! I'm <b>E.Praveen Kumar</b>, a passionate <b>Full Stack Developer</b> skilled in creating 
+      dynamic and scalable web applications.<br><br>
+      My expertise spans <b>ReactJS</b> and <b>Django (Python)</b>, with practical experience 
+      in <b>MySQL</b> and <b>MongoDB</b>.  
+      I occasionally work on <b>MERN stack</b> projects and love integrating 
+      beautiful UI with powerful backend logic.
+    </p>
 
+
+    <div style="display:flex; gap:8px; flex-wrap:wrap; margin-top:15px;">
+      <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
+      <img src="https://img.shields.io/badge/Django-0A7A3C?style=for-the-badge&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" />
+    </div>
+  </div>
+
+ 
+  <div style="
+    flex:1; 
+    min-width:240px; 
+    display:flex; 
+    justify-content:center; 
+    align-items:center;
+  ">
+    <img 
+      src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+      style="
+        width:100%; 
+        max-width:300px; 
+        border-radius:14px; 
+        box-shadow:0 20px 40px rgba(0,0,0,0.55);
+        transition:0.3s ease;
+        transform:scale(1);
+      "
+      onmouseover="this.style.transform='scale(1.08)'"
+      onmouseout="this.style.transform='scale(1)'"
+    />
+  </div>
+
+</div>
 ---
 
 ### 💼 What I Do
