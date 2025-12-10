@@ -3,26 +3,34 @@
 </div>
 
 ---
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+<div style="max-width:1000px;margin:30px auto;padding:22px;border-radius:12px;background:#0f1113;border:1px solid rgba(255,255,255,0.03);box-shadow:0 8px 30px rgba(2,6,23,0.6);">
+  <div style="display:flex;align-items:center;gap:28px;flex-wrap:wrap;">
+    <!-- TEXT -->
+    <div style="flex:1;min-width:300px;color:#e6eef8;">
+      <h2 style="margin:0 0 8px 0;color:#58a6ff;font-weight:600;letter-spacing:1px;">👋 About Me</h2>
+      <p style="margin:0 0 12px 0;line-height:1.6;color:#cbd6e8;">
+        Hi! I'm <strong>E.Praveen Kumar</strong>, a passionate <strong>Full Stack Developer</strong> building modern and scalable web applications.
+        My expertise spans <strong>ReactJS</strong> and <strong>Django (Python)</strong>, with hands-on experience in <strong>MySQL</strong> and <strong>MongoDB</strong>.
+        I also work on <strong>MERN</strong> projects and focus on clean UI + robust backend logic.
+      </p>
 
-  <!-- TEXT -->
-  <div style="flex: 1; min-width: 300px;">
-    <h3>👋 About Me</h3>
-    <p>
-      Hi! I'm <b>E.Praveen Kumar</b>, a passionate <b>Full Stack Developer</b> skilled in creating dynamic and scalable web applications.<br/>
-      My expertise spans <b>ReactJS</b> and <b>Django (Python)</b>, with practical experience in <b>MySQL</b> and <b>MongoDB</b>.<br/>
-      I occasionally work on <b>MERN stack</b> projects and love integrating clean frontend design with robust backend logic.
-    </p>
+      <div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;">
+        <span style="font-size:13px;padding:6px 10px;background:rgba(88,166,255,0.09);color:#58a6ff;border-radius:8px;border:1px solid rgba(88,166,255,0.08);">ReactJS</span>
+        <span style="font-size:13px;padding:6px 10px;background:rgba(0,200,150,0.06);color:#56d6b1;border-radius:8px;border:1px solid rgba(86,214,177,0.06);">Django</span>
+        <span style="font-size:13px;padding:6px 10px;background:rgba(247,223,30,0.06);color:#f7df1e;border-radius:8px;border:1px solid rgba(247,223,30,0.04);">MySQL</span>
+        <span style="font-size:13px;padding:6px 10px;background:rgba(71,162,72,0.06);color:#47a248;border-radius:8px;border:1px solid rgba(71,162,72,0.04);">MongoDB</span>
+      </div>
+    </div>
+
+    <!-- IMAGE -->
+    <div style="flex:0 0 320px;min-width:220px;display:flex;justify-content:center;align-items:center;">
+      <img
+        src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+        alt="developer gif"
+        style="width:100%;max-width:320px;border-radius:12px;box-shadow:0 18px 40px rgba(2,6,23,0.65);border:1px solid rgba(255,255,255,0.03);display:block;"
+      />
+    </div>
   </div>
-
-  <!-- IMAGE -->
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img 
-      src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-      style="max-width: 100%; width: 260px; border-radius: 12px;"
-    />
-  </div>
-
 </div>
 
 
