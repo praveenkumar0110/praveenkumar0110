@@ -3,10 +3,10 @@
 </div>
 
 ---
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
 
-  <!-- TEXT SECTION -->
-  <div style="flex: 1; min-width: 280px;">
+  <!-- TEXT -->
+  <div style="flex: 1; min-width: 300px;">
     <h3>👋 About Me</h3>
     <p>
       Hi! I'm <b>E.Praveen Kumar</b>, a passionate <b>Full Stack Developer</b> skilled in creating dynamic and scalable web applications.<br/>
@@ -15,15 +15,16 @@
     </p>
   </div>
 
-  <!-- IMAGE SECTION -->
-  <div style="flex: 1; min-width: 280px; text-align: center;">
+  <!-- IMAGE -->
+  <div style="flex: 1; min-width: 250px; text-align: center;">
     <img 
       src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-      style="max-width: 100%; width: 250px; border-radius: 12px;"
+      style="max-width: 100%; width: 260px; border-radius: 12px;"
     />
   </div>
 
 </div>
+
 
 ---
 
