@@ -71,11 +71,12 @@ I occasionally work on **MERN stack** projects and love integrating clean fronte
 
 ---
 <div align="center">
-  <b>🙏 Thanks for visiting my GitHub profile! Happy coding 🚀</b>
+  <b>🙏 Thanks for visiting my GitHub profile! Happy coding 💻</b>
+    <b>Crafted with 🤍 by E. Praveen Kumar </b>
 </div>
 
 
-Crafted with ❤️ by E. Praveen Kumar 
+
 
 
 
