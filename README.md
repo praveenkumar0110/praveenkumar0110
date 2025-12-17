@@ -5,7 +5,7 @@
 ---
 
 <!-- <img align="right" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="300" alt="Cool Coding GIF" style="max-width: 100%; height: auto;" /> -->
-<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="margin-top:-500px;"  />
+<!-- <img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="margin-top:-500px;"  />
 
 ### 👋 About Me
 
@@ -13,7 +13,27 @@
 My expertise spans **ReactJS** and **Django (Python)**, with practical experience in **MySQL** and **MongoDB**.  
 I occasionally work on **MERN stack** projects and love integrating clean frontend design with robust backend logic.
 
----
+
+
+--- -->
+
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      
+### 👋 About Me
+
+Hi! I'm **E.Praveen Kumar**, a passionate **Full Stack Developer** skilled in creating dynamic and scalable web applications.  
+My expertise spans **ReactJS** and **Django (Python)**, with practical experience in **MySQL** and **MongoDB**.  
+I occasionally work on **MERN stack** projects and love integrating clean frontend design with robust backend logic.
+
+    </td>
+    <td align="right" width="35%">
+      <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+    </td>
+  </tr>
+</table>
+
 
 ### 💼 What I Do
 
