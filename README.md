@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Lucida+Console&size=26&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Hi+I'm+E.PRAVEEN+KUMAR;Full+Stack+Developer;ReactJS+|+Django+(Python)+|+MySQL+|+MongoDB;Building+Modern+and+Scalable+Web+Apps" />
 </div>
 
-
-<!-- <img align="right" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="300" alt="Cool Coding GIF" style="max-width: 100%; height: auto;" />  -->
-<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="margin-top:-500px;"  />
+---
+<!-- <img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"  /> -->
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="300" alt="Cool Coding GIF" style="max-width: 100%; height: auto;" />
 
 ### 👋 About Me
 
@@ -12,9 +12,7 @@
 My expertise spans **ReactJS** and **Django (Python)**, with practical experience in **MySQL** and **MongoDB**.  
 I occasionally work on **MERN stack** projects and love integrating clean frontend design with robust backend logic.
 
-
-
-
+---
 
 ### 💼 What I Do
 
@@ -60,7 +58,6 @@ I occasionally work on **MERN stack** projects and love integrating clean fronte
   <br/> <br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=praveenkumar0110&show_icons=true&theme=gruvbox" height="180"/>
    <img src="https://github-readme-streak-stats.herokuapp.com?user=praveenkumar0110&theme=gruvbox" height="180" />
-
  
 </div>
 
@@ -75,6 +72,7 @@ I occasionally work on **MERN stack** projects and love integrating clean fronte
 ---
 
 <!-- Crafted with ❤️ by E. Praveen Kumar -->
+
 
 
 
