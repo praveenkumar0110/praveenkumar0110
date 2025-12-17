@@ -4,8 +4,8 @@
 
 <br/>
 
-<!-- Mobile-friendly GIF on the right (desktop) and full-width (mobile) -->
-<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF" style="max-width: 100%; height: auto;" />
+<!-- New cool animated GIF (scales perfectly on mobile) -->
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="300" alt="Cool Coding GIF" style="max-width: 100%; height: auto;" />
 
 ### 👋 About Me
 Hi! I'm **E.Praveen Kumar**, a passionate **Full Stack Developer** skilled in creating dynamic and scalable web applications.  
@@ -50,7 +50,7 @@ I occasionally work on **MERN stack** projects and love integrating clean fronte
 
 **Tools & IDEs:**  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -59,18 +59,18 @@ I occasionally work on **MERN stack** projects and love integrating clean fronte
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=praveenkumar0110&layout=compact&theme=gruvbox" width="400" style="max-width: 100%; height: auto;"/><br/><br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=praveenkumar0110&show_icons=true&theme=gruvbox" width="400" style="max-width: 100%; height: auto;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumar0110&theme=gruvbox" width="400" style="max-width: 100%; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumar0110&layout=compact&theme=tokyonight" style="max-width: 100%; height: auto;"/><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=praveenkumar0110&show_icons=true&theme=tokyonight" style="max-width: 100%; height: auto;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumar0110&theme=tokyonight" style="max-width: 100%; height: auto;"/>
 </div>
 
-<!-- Responsive trick: Force images to stack on small screens -->
+<!-- Extra responsive fix for very small screens -->
 <style>
 @media (max-width: 768px) {
   div[align="center"] > img {
     display: block !important;
-    margin: 10px auto !important;
-    width: 90% !important;
+    margin: 15px auto !important;
+    width: 95% !important;
   }
 }
 </style>
@@ -83,8 +83,6 @@ I occasionally work on **MERN stack** projects and love integrating clean fronte
 </div>
 
 <br/>
-
-<!-- Crafted with ❤️ by E. Praveen Kumar -->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=praveenkumar0110&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
