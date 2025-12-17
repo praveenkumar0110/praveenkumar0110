@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="300" alt="Cool Coding GIF" style="max-width: 100%; height: auto;" />/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="300" alt="Cool Coding GIF" style="max-width: 100%; height: auto;" />
 
 ### 👋 About Me
 
@@ -57,7 +57,8 @@ I occasionally work on **MERN stack** projects and love integrating clean fronte
    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=praveenkumar0110&layout=compact&theme=gruvbox" height="180"/>
   <br/> <br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=praveenkumar0110&show_icons=true&theme=gruvbox" height="180"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumar0110&theme=gruvbox" height="180" />
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=praveenkumar0110&theme=gruvbox" height="180" />
+
  
 </div>
 
