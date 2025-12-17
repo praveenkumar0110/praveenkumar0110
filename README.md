@@ -3,33 +3,13 @@
 </div>
 
 ---
-<table>
-  <tr>
-    <td valign="top" width="65%">
-      <h3>👋 About Me</h3>
-      <p>
-        Hi! I'm <b>E.Praveen Kumar</b>, a passionate <b>Full Stack Developer</b>
-        skilled in creating dynamic and scalable web applications.
-      </p>
-      <p>
-        My expertise spans <b>ReactJS</b> and <b>Django (Python)</b>, with practical
-        experience in <b>MySQL</b> and <b>MongoDB</b>.
-      </p>
-      <p>
-        I occasionally work on <b>MERN stack</b> projects and love integrating
-        clean frontend design with robust backend logic.
-      </p>
-    </td>
+<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"  />
 
-    <td align="right" width="35%">
-      <img
-        src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-        width="300"
-      />
-    </td>
-  </tr>
-</table>
+### 👋 About Me
 
+ H! I'm **E.Praveen Kumar**, a passionate **Full Stack Developer** skilled in creating dynamic and scalable web applications.  
+My expertise spans **ReactJS** and **Django (Python)**, with practical experience in **MySQL** and **MongoDB**.  
+I occasionally work on **MERN stack** projects and love integrating clean frontend design with robust backend logic.
 
 ---
 
@@ -93,6 +73,6 @@
 <!-- Crafted with ❤️ by E. Praveen Kumar -->
 
 
-
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="300" alt="Cool Coding GIF" style="max-width: 100%; height: auto;" />
 
 
