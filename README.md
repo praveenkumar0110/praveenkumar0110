@@ -4,6 +4,7 @@
 
 ---
 <img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"  />
+<!-- <img align="right" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="300" alt="Cool Coding GIF" style="max-width: 100%; height: auto;" /> -->
 
 ### 👋 About Me
 
@@ -73,6 +74,6 @@ I occasionally work on **MERN stack** projects and love integrating clean fronte
 <!-- Crafted with ❤️ by E. Praveen Kumar -->
 
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="300" alt="Cool Coding GIF" style="max-width: 100%; height: auto;" />
+
 
 
