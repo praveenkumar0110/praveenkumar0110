@@ -70,8 +70,12 @@ I occasionally work on **MERN stack** projects and love integrating clean fronte
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/praveenkumar0110)
 
 ---
+<div align="center">
+  <b>🙏 Thanks for visiting my GitHub profile! Happy coding 🚀</b>
+</div>
 
-<!-- Crafted with ❤️ by E. Praveen Kumar -->
+
+Crafted with ❤️ by E. Praveen Kumar 
 
 
 
