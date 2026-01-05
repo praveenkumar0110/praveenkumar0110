@@ -7,9 +7,7 @@
 ### 👋 About Me
 
 Hi! I'm **E. Praveen Kumar**, a passionate **Full Stack Developer** skilled in creating dynamic and scalable web applications.  
-
 My expertise spans **ReactJS** and **Django (Python)**, with practical experience in **MySQL** and **MongoDB**.  
-
 I occasionally work on **MERN stack** projects and love integrating clean frontend design with robust backend logic.
 
 ---
