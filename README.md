@@ -6,22 +6,14 @@
 <!-- <img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Cool Coding GIF" style="max-width: 100%; height: auto;" /> -->
 <!-- <img align="right" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="300" alt="Cool Coding GIF" style="max-width: 100%; height: auto;" />  -->
 
+
 ### 👋 About Me
 
-<img 
-  align="right"
-  src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
-  alt="Developer Coding"
-  width="180"
-/>
-
-Hi! I'm **E. Praveen Kumar**, a passionate **Full Stack Developer** skilled in creating dynamic and scalable web applications.
-
-My expertise spans **ReactJS** and **Django (Python)**, with practical experience in **MySQL** and **MongoDB**.
-
+ H! I'm **E.Praveen Kumar**, a passionate **Full Stack Developer** skilled in creating dynamic and scalable web applications.  
+My expertise spans **ReactJS** and **Django (Python)**, with practical experience in **MySQL** and **MongoDB**.  
 I occasionally work on **MERN stack** projects and love integrating clean frontend design with robust backend logic.
 
-<br clear="right"/>
+
 
 
 ---
