@@ -59,6 +59,8 @@ I occasionally work on **MERN stack** projects and love integrating clean fronte
  
 </div>
 
+---
+
 ### 📫 Connect With Me
 
 <div align="">
