@@ -9,9 +9,34 @@
 
 ### 👋 About Me
 
- H! I'm **E.Praveen Kumar**, a passionate **Full Stack Developer** skilled in creating dynamic and scalable web applications.  
+<div align="center">
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+Hi! I'm **E. Praveen Kumar**, a passionate **Full Stack Developer** skilled in creating dynamic and scalable web applications.  
+
 My expertise spans **ReactJS** and **Django (Python)**, with practical experience in **MySQL** and **MongoDB**.  
+
 I occasionally work on **MERN stack** projects and love integrating clean frontend design with robust backend logic.
+
+</td>
+
+<td width="35%" align="center">
+
+<img 
+  src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+  alt="Developer Coding"
+  width="230"
+/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 ---
 
