@@ -55,8 +55,20 @@ I occasionally work on **MERN stack** projects and love integrating clean fronte
 ### 📈 GitHub Stats
 <div align="center">
 
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=praveenkumar0110&layout=compact&theme=gruvbox" height="180"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=praveenkumar0110&show_icons=true&theme=gruvbox" height="180"/>
+<div align="center" style="display:flex; justify-content:center; gap:24px; flex-wrap:wrap;">
+
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=praveenkumar0110&layout=compact&theme=gruvbox&hide_border=true"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=praveenkumar0110&show_icons=true&theme=gruvbox&hide_border=true"
+    height="180"
+  />
+
+</div>
+
 
 
  
