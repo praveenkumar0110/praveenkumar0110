@@ -53,7 +53,7 @@ I occasionally work on **MERN stack** projects and love integrating clean fronte
 <div align="center">
 
    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=praveenkumar0110&layout=compact&theme=gruvbox" height="180"/>
-  <br/> <br/>
+
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=praveenkumar0110&show_icons=true&theme=gruvbox" height="180"/>
   
  
