@@ -53,16 +53,15 @@ I occasionally work on **MERN stack** projects and love integrating clean fronte
 <div align="center">
 
    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=praveenkumar0110&layout=compact&theme=gruvbox" height="180"/>
-
+<br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=praveenkumar0110&show_icons=true&theme=gruvbox" height="180"/>
   
  
 </div>
----
 
 ### 📫 Connect With Me
 
-<div align="center">
+<div align="">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ipraveen.e@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/praveenkumar0110)
