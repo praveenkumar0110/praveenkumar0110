@@ -13,9 +13,6 @@
 My expertise spans **ReactJS** and **Django (Python)**, with practical experience in **MySQL** and **MongoDB**.  
 I occasionally work on **MERN stack** projects and love integrating clean frontend design with robust backend logic.
 
-
-
-
 ---
 
 ### 💼 What I Do
@@ -31,7 +28,7 @@ I occasionally work on **MERN stack** projects and love integrating clean fronte
 
 ### 🛠️ Tech Stack
 
- **Frontend:**
+**Frontend:**
 ![React](https://img.shields.io/badge/React-%2300D8FF.svg?style=for-the-badge&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -58,24 +55,10 @@ I occasionally work on **MERN stack** projects and love integrating clean fronte
 ### 📈 GitHub Stats
 <div align="center">
 
-<div align="center" style="display:flex; justify-content:center; gap:24px; flex-wrap:wrap;">
-
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=praveenkumar0110&layout=compact&theme=gruvbox&hide_border=true"
-    height="180"
-  />
-
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=praveenkumar0110&show_icons=true&theme=gruvbox&hide_border=true"
-    height="180"
-  />
-
-</div>
-
-
-
- 
-
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=praveenkumar0110&layout=compact&theme=gruvbox" height="180"/>
+  <br/> <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=praveenkumar0110&show_icons=true&theme=gruvbox" height="180"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=praveenkumar0110&theme=gruvbox" height="180" />
  
 </div>
 
